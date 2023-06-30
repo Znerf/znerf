@@ -58,7 +58,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=golang,mysql,gcp,docker,aws,git,aws,bootstrap,tailwind,nodejs,nestjs,react,vue,firebase,github,js,linux,mongodb,postgres,postman,py,redux,typescript,vercel,vscode,latex,redis,regex,tensorflow,arduino,fastapi,flask,raspberrypi&perline=14" />
+    <img src="https://skillicons.dev/icons?i=golang,mysql,gcp,docker,aws,git,bootstrap,tailwind,nodejs,nestjs,react,vue,firebase,github,js,linux,mongodb,postgres,postman,py,redux,typescript,vercel,vscode,latex,redis,regex,tensorflow,arduino,fastapi,flask,raspberrypi&perline=14" />
   </a>
 </p>
 
