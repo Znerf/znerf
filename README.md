@@ -34,7 +34,7 @@
 
 - 📝 I regularly write articles on <a href="https://sgstlife.medium.com/" target="blank">Medium</a>
 
-- 💬 Ask me about **AWS, GCP, Golang, NodeJS, NestJS, Devops**
+- 💬 Ask me about ** AWS, GCP, Golang, NodeJS, NestJS, Devops **
 
 - 📫 Feel free to reach me out **znerfii.a1@gmail.com**
 
