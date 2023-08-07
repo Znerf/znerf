@@ -32,7 +32,7 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning ** AWS **
 
-- 📝 I regularly write articles on <a href="https://sgstlife.medium.com/" target="blank">Medium</a>
+- 📝 I regularly write articles on <a href="https://sgstlife.medium.com/" target="blank">Medium.com</a>
 
 - 💬 Ask me about ** AWS, GCP, Golang, NodeJS, NestJS, Devops **
 
