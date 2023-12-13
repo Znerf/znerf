@@ -36,7 +36,7 @@
 
 - 💬 Ask me about ** AWS, GCP, Golang, NodeJS, NestJS, Devops **
 
-- 📫 Feel free to reach me out **znerfii.a1@gmail.com**
+- 📫 Feel free to reach me out **sgst.life@gmail.com**
 
 <!--Intro end-->
 
