@@ -73,9 +73,11 @@
 
 
 <!--horizontal divider(gradiant)-->
+<!--
 <p align="center">
 <a href="https://www.buymeacoffee.com/sgstlife" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </p>
+-->
 <p align="center">
 <a href="http://sagarshrestha1999.com.np" target="_blank"><img src="https://raw.githubusercontent.com/Znerf/znerf/188dcd6247170f87cd4b7ff7141e5d5985f4ae9b/images/qr.png" alt="My website Scan Now" style="height: 200px" ></a>
 </p>
