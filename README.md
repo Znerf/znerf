@@ -25,15 +25,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **GO, SQL, GCP, Nodejs, DevOps **
+- 🔭 I’m currently working on **GO, Java, Python, SQL, GCP, Nodejs, DevOps **
 
-- 🌱 I’m currently learning **Microservice architecture in Go and also about RTK query**
+- 🌱 I’m currently learning **Microservice architecture and System design for efficient Processing**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning ** AWS **
+- ☁️ I've Also working of LLM integration and tuning model ** AI **
 
 - 📝 I regularly write articles on <a href="https://sgstlife.medium.com/" target="blank">Medium.com</a>
 
-- 💬 Ask me about ** AWS, GCP, Golang, NodeJS, NestJS, Devops **
+- 💬 Ask me about ** AWS, GCP, Azure, Golang, NodeJS, NestJS, Devops **
 
 - 📫 Feel free to reach me out **sgst.life@gmail.com**
 
